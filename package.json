@@ -3,6 +3,7 @@
   "description": "",
   "main": "index.js",
   "homepage": "https://VitenFra.github.io/goit-js-hw-08",
+  
   "scripts": {
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build",
